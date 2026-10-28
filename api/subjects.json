@@ -5,12 +5,13 @@
     "title": "বাংলা ১ম পত্র · কবিতা",
     "shortTitle": "কবিতা",
     "enTitle": "Bangla Literature · Poetry",
-    "accent": "#D97757",
+    "accent": "var(--ink-primary)",
     "badge": "1080p HD",
     "bookRef": "বাংলা সাহিত্য (নবম-দশম শ্রেণি) · কবিতাংশ",
     "description": "কবিতার ছন্দ, চরণভিত্তিক ভাবার্থ, ঐতিহাসিক ও দার্শনিক পটভূমি এবং সৃজনশীল উদ্দীপক সংযোগের ভিজ্যুয়াল ক্লাসরুম।",
     "lessonCount": 7,
-    "totalDurationSec": 11303.9
+    "totalDurationSec": 11303.9,
+    "indexCode": "01"
   },
   {
     "id": "bangla-prose",
@@ -18,12 +19,13 @@
     "title": "বাংলা ১ম পত্র · গদ্য",
     "shortTitle": "গদ্য",
     "enTitle": "Bangla Literature · Prose",
-    "accent": "#C28538",
+    "accent": "var(--ink-primary)",
     "badge": "1080p HD",
     "bookRef": "বাংলা সাহিত্য (নবম-দশম শ্রেণি) · গদ্যাংশ",
     "description": "গল্প ও প্রবন্ধের চরিত্র ব্যবচ্ছেদ, লেখক পরিচিতি, মূল বক্তব্য ও লাইন-বাই-লাইন বিশ্লেষণধর্মী অ্যানিমেটেড ক্লাস।",
     "lessonCount": 6,
-    "totalDurationSec": 7565.1
+    "totalDurationSec": 7565.1,
+    "indexCode": "02"
   },
   {
     "id": "chemistry",
@@ -31,12 +33,13 @@
     "title": "রসায়ন · Chemistry",
     "shortTitle": "রসায়ন",
     "enTitle": "Class 9–10 Chemistry",
-    "accent": "#3B8578",
+    "accent": "var(--ink-primary)",
     "badge": "720p HD",
     "bookRef": "রসায়ন (নবম-দশম শ্রেণি) · অধ্যায় ৫–৮",
     "description": "রাসায়নিক বন্ধন, মোলের গাণিতিক গণনা, রেডক্স বিক্রিয়া ও তড়িৎ রসায়নের অণু-পরমাণু স্তরের Manim ভিজ্যুয়ালাইজেশন।",
     "lessonCount": 4,
-    "totalDurationSec": 8073.8
+    "totalDurationSec": 8073.8,
+    "indexCode": "03"
   },
   {
     "id": "bgs",
@@ -44,12 +47,13 @@
     "title": "বাংলাদেশ ও বিশ্বপরিচয়",
     "shortTitle": "বাওবি",
     "enTitle": "Bangladesh & Global Studies",
-    "accent": "#527396",
+    "accent": "var(--ink-primary)",
     "badge": "720p HD",
     "bookRef": "বাংলাদেশ ও বিশ্বপরিচয় · নির্বাচিত অধ্যায়",
     "description": "মুক্তিযুদ্ধ, ভূপ্রকৃতি, নদ-নদী, রাষ্ট্রীয় প্রশাসন, জাতীয় অর্থনীতি ও সামাজিক পরিবর্তনের মানচিত্রভিত্তিক বিশ্লেষণ।",
     "lessonCount": 6,
-    "totalDurationSec": 7209.0
+    "totalDurationSec": 7209.0,
+    "indexCode": "04"
   },
   {
     "id": "skill",
@@ -57,11 +61,12 @@
     "title": "পরীক্ষা কৌশল · Masterclass",
     "shortTitle": "পরীক্ষা কৌশল",
     "enTitle": "Board Exam Strategy",
-    "accent": "#8B5E99",
+    "accent": "var(--ink-primary)",
     "badge": "720p HD",
     "bookRef": "CQ ও MCQ উত্তর লেখার বিশেষ নির্দেশিকা",
     "description": "বোর্ড ও বার্ষিক পরীক্ষায় সৃজনশীল এবং বহুনির্বাচনি অংশে সময় ব্যবস্থাপনা ও সর্বোচ্চ নম্বর নিশ্চিত করার কৌশল।",
     "lessonCount": 1,
-    "totalDurationSec": 1226.1
+    "totalDurationSec": 1226.1,
+    "indexCode": "05"
   }
 ]
