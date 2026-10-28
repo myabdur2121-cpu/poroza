@@ -1,0 +1,17 @@
+{
+  "platform": "Poroza",
+  "version": "2.0.0",
+  "architecture": "Decoupled Static JSON API + IndexedDB Study Engine + Protected HLS Stream",
+  "features": {
+    "streamOnlyProtection": true,
+    "localStudyEngine": true,
+    "smartNoteSheets": false,
+    "cloudAuthLogin": false
+  },
+  "stats": {
+    "totalLessons": 24,
+    "totalDurationSec": 35377.9,
+    "totalSubjects": 5,
+    "streamFormat": "HLS (.m3u8 + .pza chunks)"
+  }
+}

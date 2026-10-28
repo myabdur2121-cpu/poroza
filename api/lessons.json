@@ -1,0 +1,651 @@
+[
+  {
+    "id": "bn-poetry-06",
+    "slug": "bn-poetry-06",
+    "order": 1,
+    "subjectId": "bangla-poetry",
+    "subjectLabel": "বাংলা ১ম পত্র · কবিতা",
+    "code": "কবিতা ০৬",
+    "title": "জীবন বিনিময়",
+    "subtitle": "গোলাম মোস্তফা · পৃ. ১৯৩–১৯৬",
+    "authorOrFocus": "গোলাম মোস্তফা",
+    "pageOrScope": "পৃ. ১৯৩–১৯৬",
+    "examTracks": [
+      "annual9",
+      "ssc"
+    ],
+    "keywords": "jibon binimoy golam mostofa babur humayun জীবন বিনিময় গোলাম মোস্তফা কবিতা",
+    "duration": "26:41",
+    "durationSec": 1600.5,
+    "resolution": "1080p HD",
+    "stream": "streams/bn-poetry-06.m3u8",
+    "poster": "posters/bn-poetry-06.jpg",
+    "highlights": [
+      "সম্রাট বাবরের পিতৃস্নেহ ও আত্মত্যাগের ঐতিহাসিক প্রেক্ষাপট",
+      "কবিতার ছন্দ, শব্দার্থ ও চরণভিত্তিক ভাবার্থ বিশ্লেষণ",
+      "অনুধাবন ও সৃজনশীল (গ/ঘ) প্রশ্নের মূল থিম নির্ণয়"
+    ]
+  },
+  {
+    "id": "bn-poetry-07",
+    "slug": "bn-poetry-07",
+    "order": 2,
+    "subjectId": "bangla-poetry",
+    "subjectLabel": "বাংলা ১ম পত্র · কবিতা",
+    "code": "কবিতা ০৭",
+    "title": "উমর ফারুক",
+    "subtitle": "কাজী নজরুল ইসলাম · পৃ. ২০০–২০৫",
+    "authorOrFocus": "কাজী নজরুল ইসলাম",
+    "pageOrScope": "পৃ. ২০০–২০৫",
+    "examTracks": [
+      "annual9",
+      "ssc"
+    ],
+    "keywords": "umar faruq faruk kazi nazrul islam উমর ফারুক কাজী নজরুল ইসলাম জিঞ্জীর",
+    "duration": "27:31",
+    "durationSec": 1651.1,
+    "resolution": "1080p HD",
+    "stream": "streams/bn-poetry-07.m3u8",
+    "poster": "posters/bn-poetry-07.jpg",
+    "highlights": [
+      "খলিফা উমর (রা.)-এর ন্যায়বিচার, সাম্য ও মানবিক শাসনাদর্শ",
+      "কাজী নজরুল ইসলামের ওজস্বী ভাষারীতি ও ঐতিহাসিক দৃষ্টান্ত",
+      "বোর্ড পরীক্ষার গুরুত্বপূর্ণ উদ্দীপক সংযোগ ও বহুনির্বাচনি কৌশল"
+    ]
+  },
+  {
+    "id": "bn-poetry-08",
+    "slug": "bn-poetry-08",
+    "order": 3,
+    "subjectId": "bangla-poetry",
+    "subjectLabel": "বাংলা ১ম পত্র · কবিতা",
+    "code": "কবিতা ০৮",
+    "title": "সেইদিন এই মাঠ",
+    "subtitle": "জীবনানন্দ দাশ · পৃ. ২০৬–২০৮",
+    "authorOrFocus": "জীবনানন্দ দাশ",
+    "pageOrScope": "পৃ. ২০৬–২০৮",
+    "examTracks": [
+      "annual9",
+      "ssc"
+    ],
+    "keywords": "seidin ei math jibanananda das রূপসী বাংলা সেইদিন এই মাঠ জীবনানন্দ দাশ এশিরিয়া বেবিলন",
+    "duration": "26:58",
+    "durationSec": 1618.3,
+    "resolution": "1080p HD",
+    "stream": "streams/bn-poetry-08.m3u8",
+    "poster": "posters/bn-poetry-08.jpg",
+    "highlights": [
+      "জীবনানন্দ দাশের রূপসী বাংলার চিরন্তন প্রকৃতি ও নশ্বর মানবজীবন",
+      "অ্যাসিরিয়া ও বেবিলন সভ্যতার প্রতীকী তুলনা বিশ্লেষণ",
+      "কবিতার দার্শনিক গভীরতা ও উচ্চতর দক্ষতার উত্তর কাঠামো"
+    ]
+  },
+  {
+    "id": "bn-poetry-09",
+    "slug": "bn-poetry-09",
+    "order": 4,
+    "subjectId": "bangla-poetry",
+    "subjectLabel": "বাংলা ১ম পত্র · কবিতা",
+    "code": "কবিতা ০৯",
+    "title": "যাব আমি তোমার দেশে",
+    "subtitle": "জসীমউদ্‌দীন · পৃ. ২০৯–২১৩",
+    "authorOrFocus": "জসীমউদ্‌দীন",
+    "pageOrScope": "পৃ. ২০৯–২১৩",
+    "examTracks": [
+      "annual9",
+      "ssc"
+    ],
+    "keywords": "jabo ami tomar deshe jasimuddin যাব আমি তোমার দেশে জসীমউদ্‌দীন পল্লীকবি ধানক্ষেত",
+    "duration": "26:36",
+    "durationSec": 1596.1,
+    "resolution": "1080p HD",
+    "stream": "streams/bn-poetry-09.m3u8",
+    "poster": "posters/bn-poetry-09.jpg",
+    "highlights": [
+      "পল্লিকবি জসীমউদ্‌দীনের গ্রামবাংলার মায়া, প্রকৃতি ও মানবিক আবেদন",
+      "চিত্রকল্প, উপমা ও লোকজ শব্দের শৈল্পিক ব্যবহার",
+      "পাঠ্যবইয়ের পৃষ্ঠা ২০৯–২১৩ এর লাইন-বাই-লাইন ব্যবচ্ছেদ"
+    ]
+  },
+  {
+    "id": "bn-poetry-10",
+    "slug": "bn-poetry-10",
+    "order": 5,
+    "subjectId": "bangla-poetry",
+    "subjectLabel": "বাংলা ১ম পত্র · কবিতা",
+    "code": "কবিতা ১০",
+    "title": "আমার দেশ",
+    "subtitle": "সুফিয়া কামাল · পৃ. ২১৭–২২০",
+    "authorOrFocus": "সুফিয়া কামাল",
+    "pageOrScope": "পৃ. ২১৭–২২০",
+    "examTracks": [
+      "annual9",
+      "ssc"
+    ],
+    "keywords": "amar desh sufia kamal আমার দেশ সুফিয়া কামাল কিস্তি শান্তি কপোত",
+    "duration": "26:50",
+    "durationSec": 1609.8,
+    "resolution": "1080p HD",
+    "stream": "streams/bn-poetry-10.m3u8",
+    "poster": "posters/bn-poetry-10.jpg",
+    "highlights": [
+      "সুফিয়া কামালের স্বদেশপ্রেম, প্রকৃতি ও অসাম্প্রদায়িক চেতনা",
+      "মাতৃভূমির নদী, ফসল ও ঋতুবৈচিত্র্যের কাব্যিক চিত্রায়ন",
+      "জ্ঞানমূলক, অনুধাবন ও সৃজনশীল প্রয়োগ প্রশ্নের নিখুঁত প্রস্তুতি"
+    ]
+  },
+  {
+    "id": "bn-poetry-11",
+    "slug": "bn-poetry-11",
+    "order": 6,
+    "subjectId": "bangla-poetry",
+    "subjectLabel": "বাংলা ১ম পত্র · কবিতা",
+    "code": "কবিতা ১১",
+    "title": "বৃষ্টি",
+    "subtitle": "ফররুখ আহমদ · পৃ. ২২৪–২২৬",
+    "authorOrFocus": "ফররুখ আহমদ",
+    "pageOrScope": "পৃ. ২২৪–২২৬",
+    "examTracks": [
+      "annual9",
+      "ssc"
+    ],
+    "keywords": "brishti bristi farrukh ahmad বৃষ্টি ফররুখ আহমদ সনেট চতুর্দশপদী",
+    "duration": "26:46",
+    "durationSec": 1606.2,
+    "resolution": "1080p HD",
+    "stream": "streams/bn-poetry-11.m3u8",
+    "poster": "posters/bn-poetry-11.jpg",
+    "highlights": [
+      "ফররুখ আহমদের ‘বৃষ্টি’ কবিতায় তৃষ্ণার্ত প্রকৃতিতে প্রাণের সঞ্চার",
+      "রূপক ও আরবি-ফারসি শব্দের নান্দনিক প্রয়োগ বিশ্লেষণ",
+      "বর্ষা ও নবজাগরণের প্রতীকী অর্থ এবং বহুনির্বাচনি অনুশীলন"
+    ]
+  },
+  {
+    "id": "bn-poetry-12",
+    "slug": "bn-poetry-12",
+    "order": 7,
+    "subjectId": "bangla-poetry",
+    "subjectLabel": "বাংলা ১ম পত্র · কবিতা",
+    "code": "কবিতা ১২",
+    "title": "আমি কোনো আগন্তুক নই",
+    "subtitle": "আহসান হাবীব · পৃ. ২২৭–২৩০",
+    "authorOrFocus": "আহসান হাবীব",
+    "pageOrScope": "পৃ. ২২৭–২৩০",
+    "examTracks": [
+      "class10",
+      "ssc"
+    ],
+    "keywords": "ami kono agontuk noi ahsan habib আমি কোনো আগন্তুক নই আহসান হাবীব কদম আলী",
+    "duration": "27:02",
+    "durationSec": 1621.9,
+    "resolution": "1080p HD",
+    "stream": "streams/bn-poetry-12.m3u8",
+    "poster": "posters/bn-poetry-12.jpg",
+    "highlights": [
+      "আহসান হাবীবের শিকড়ের টান ও গ্রামীণ প্রকৃতির সাথে আত্মিক বন্ধন",
+      "‘আমি কোনো আগন্তুক নই’—অস্তিত্ব ও স্বদেশচেতনার গভীর ব্যাখ্যা",
+      "দশম শ্রেণি ও এসএসসি বোর্ড পরীক্ষার সৃজনশীল বিশ্লেষণ"
+    ]
+  },
+  {
+    "id": "bn-prose-06",
+    "slug": "bn-prose-06",
+    "order": 8,
+    "subjectId": "bangla-prose",
+    "subjectLabel": "বাংলা ১ম পত্র · গদ্য",
+    "code": "গদ্য ০৬",
+    "title": "নিরীহ বাঙালি",
+    "subtitle": "রোকেয়া সাখাওয়াত হোসেন · পৃ. ৩৭–৪১",
+    "authorOrFocus": "রোকেয়া সাখাওয়াত হোসেন",
+    "pageOrScope": "পৃ. ৩৭–৪১",
+    "examTracks": [
+      "annual9",
+      "ssc"
+    ],
+    "keywords": "niriho bangali rokeya sakhawat hossain নিরীহ বাঙালি রোকেয়া সাখাওয়াত হোসেন",
+    "duration": "21:55",
+    "durationSec": 1315.2,
+    "resolution": "1080p HD",
+    "stream": "streams/bn-prose-06.m3u8",
+    "poster": "posters/bn-prose-06.jpg",
+    "highlights": [
+      "রোকেয়া সাখাওয়াত হোসেনের ব্যঙ্গাত্মক রচনারীতি ও আত্মসমালোচনা",
+      "বাঙালির আলস্য, কর্মবিমুখতা ও জাগরণের শাণিত আহ্বান",
+      "গদ্যাংশের গুরুত্বপূর্ণ উক্তি ও অনুধাবনমূলক প্রশ্নের সমাধান"
+    ]
+  },
+  {
+    "id": "bn-prose-07",
+    "slug": "bn-prose-07",
+    "order": 9,
+    "subjectId": "bangla-prose",
+    "subjectLabel": "বাংলা ১ম পত্র · গদ্য",
+    "code": "গদ্য ০৭",
+    "title": "পল্লিসাহিত্য",
+    "subtitle": "মুহম্মদ শহীদুল্লাহ্ · পৃ. ৪২–৪৮",
+    "authorOrFocus": "মুহম্মদ শহীদুল্লাহ্",
+    "pageOrScope": "পৃ. ৪২–৪৮",
+    "examTracks": [
+      "annual9",
+      "ssc"
+    ],
+    "keywords": "pollisahitya polli sahitto muhammad shahidullah পল্লিসাহিত্য মুহম্মদ শহীদুল্লাহ্",
+    "duration": "21:44",
+    "durationSec": 1304.1,
+    "resolution": "1080p HD",
+    "stream": "streams/bn-prose-07.m3u8",
+    "poster": "posters/bn-prose-07.jpg",
+    "highlights": [
+      "ড. মুহম্মদ শহীদুল্লাহ্‌র দৃষ্টিতে লোকসাহিত্যের অমূল্য রত্নভাণ্ডার",
+      "রূপকথা, প্রবাদ-প্রবচন, খনার বচন ও পল্লিগানের শ্রেণিবিভাগ",
+      "লোকসংস্কৃতি সংরক্ষণের গুরুত্ব ও সৃজনশীল উত্তর কৌশল"
+    ]
+  },
+  {
+    "id": "bn-prose-08",
+    "slug": "bn-prose-08",
+    "order": 10,
+    "subjectId": "bangla-prose",
+    "subjectLabel": "বাংলা ১ম পত্র · গদ্য",
+    "code": "গদ্য ০৮",
+    "title": "আম-আঁটির ভেঁপু",
+    "subtitle": "বিভূতিভূষণ বন্দ্যোপাধ্যায় · পৃ. ৫৯–৬৫",
+    "authorOrFocus": "বিভূতিভূষণ বন্দ্যোপাধ্যায়",
+    "pageOrScope": "পৃ. ৫৯–৬৫",
+    "examTracks": [
+      "annual9",
+      "ssc"
+    ],
+    "keywords": "am atir bhepu vepu bibhutibhushan apu durga আম আঁটির ভেঁপু বিভূতিভূষণ পথের পাঁচালী",
+    "duration": "20:42",
+    "durationSec": 1242.3,
+    "resolution": "1080p HD",
+    "stream": "streams/bn-prose-08.m3u8",
+    "poster": "posters/bn-prose-08.jpg",
+    "highlights": [
+      "বিভূতিভূষণ বন্দ্যোপাধ্যায়ের অপু ও দুর্গার শৈশব ও প্রকৃতিঘনিষ্ঠ জীবন",
+      "গ্রামীণ দারিদ্র্যের মাঝেও নির্মল আনন্দ ও ভাই-বোনের অকৃত্রিম স্নেহ",
+      "চরিত্র বিশ্লেষণ ও বোর্ড পরীক্ষার উদ্দীপক মেলানোর কৌশল"
+    ]
+  },
+  {
+    "id": "bn-prose-09",
+    "slug": "bn-prose-09",
+    "order": 11,
+    "subjectId": "bangla-prose",
+    "subjectLabel": "বাংলা ১ম পত্র · গদ্য",
+    "code": "গদ্য ০৯",
+    "title": "মানুষ মুহম্মদ (স.)",
+    "subtitle": "মোহাম্মদ ওয়াজেদ আলী · পৃ. ৬৬–৭২",
+    "authorOrFocus": "মোহাম্মদ ওয়াজেদ আলী",
+    "pageOrScope": "পৃ. ৬৬–৭২",
+    "examTracks": [
+      "annual9",
+      "ssc"
+    ],
+    "keywords": "manush muhammad sm wazed ali মানুষ মুহম্মদ মোহাম্মদ ওয়াজেদ আলী",
+    "duration": "21:07",
+    "durationSec": 1267.1,
+    "resolution": "1080p HD",
+    "stream": "streams/bn-prose-09.m3u8",
+    "poster": "posters/bn-prose-09.jpg",
+    "highlights": [
+      "মোহাম্মদ ওয়াজেদ আলীর দৃষ্টিতে মহানবী (স.)-এর মানবিক গুণাবলি",
+      "ক্ষমা, মহত্ত্ব, ধৈর্য ও সত্যনিষ্ঠার ঐতিহাসিক ঘটনাবলি বিশ্লেষণ",
+      "আদর্শ মানবচরিত্র ও সৃজনশীল উচ্চতর দক্ষতা অংশের দিকনির্দেশনা"
+    ]
+  },
+  {
+    "id": "bn-prose-10",
+    "slug": "bn-prose-10",
+    "order": 12,
+    "subjectId": "bangla-prose",
+    "subjectLabel": "বাংলা ১ম পত্র · গদ্য",
+    "code": "গদ্য ১০",
+    "title": "নিমগাছ",
+    "subtitle": "বনফুল (বলাইচাঁদ মুখোপাধ্যায়) · পৃ. ৭৩–৭৫",
+    "authorOrFocus": "বনফুল (বলাইচাঁদ মুখোপাধ্যায়)",
+    "pageOrScope": "পৃ. ৭৩–৭৫",
+    "examTracks": [
+      "annual9",
+      "ssc"
+    ],
+    "keywords": "nimgach nim gach bonophul নিমগাছ বনফুল",
+    "duration": "20:30",
+    "durationSec": 1229.5,
+    "resolution": "1080p HD",
+    "stream": "streams/bn-prose-10.m3u8",
+    "poster": "posters/bn-prose-10.jpg",
+    "highlights": [
+      "বনফুলের প্রতীকী ছোটগল্পে নিমগাছ ও নিঃস্বার্থ গৃহিণীর সমান্তরাল চিত্র",
+      "সংক্ষিপ্ত পরিসরে গভীর ব্যঞ্জনা ও ম্যাজিক-বাক্যের সাহিত্যিক তাৎপর্য",
+      "প্রতীকী গল্প থেকে সৃজনশীল ও বহুনির্বাচনি প্রশ্নের শতভাগ প্রস্তুতি"
+    ]
+  },
+  {
+    "id": "bn-prose-11",
+    "slug": "bn-prose-11",
+    "order": 13,
+    "subjectId": "bangla-prose",
+    "subjectLabel": "বাংলা ১ম পত্র · গদ্য",
+    "code": "গদ্য ১১",
+    "title": "উপেক্ষিত শক্তির উদ্বোধন",
+    "subtitle": "কাজী নজরুল ইসলাম · পৃ. ৭৬–৭৯",
+    "authorOrFocus": "কাজী নজরুল ইসলাম",
+    "pageOrScope": "পৃ. ৭৬–৭৯",
+    "examTracks": [
+      "annual9",
+      "ssc"
+    ],
+    "keywords": "upekkhito shoktir udbodhon kazi nazrul islam উপেক্ষিত শক্তির উদ্বোধন কাজী নজরুল",
+    "duration": "20:07",
+    "durationSec": 1206.9,
+    "resolution": "1080p HD",
+    "stream": "streams/bn-prose-11.m3u8",
+    "poster": "posters/bn-prose-11.jpg",
+    "highlights": [
+      "কাজী নজরুল ইসলামের সাম্যবাদী চেতনা ও শ্রমজীবী মানুষের মর্যাদা",
+      "সমাজের তথাকথিত ‘ছোটলোক’ ও উপেক্ষিত শক্তির জাতিগঠনে ভূমিকা",
+      "প্রবন্ধের মূল বক্তব্য, যুক্তিক্রম ও বোর্ড পরীক্ষার প্রশ্ন বিশ্লেষণ"
+    ]
+  },
+  {
+    "id": "chem-05",
+    "slug": "chem-05",
+    "order": 14,
+    "subjectId": "chemistry",
+    "subjectLabel": "রসায়ন · Chemistry",
+    "code": "অধ্যায় ০৫",
+    "title": "রাসায়নিক বন্ধন",
+    "subtitle": "আয়নিক, সমযোজী ও ধাতব বন্ধন · যোজনী ও অষ্টক নিয়ম",
+    "authorOrFocus": "আয়নিক, সমযোজী ও ধাতব বন্ধন",
+    "pageOrScope": "যোজনী ও অষ্টক নিয়ম",
+    "examTracks": [
+      "annual9",
+      "ssc"
+    ],
+    "keywords": "chemistry ch5 chemical bond rasayonik bondhon রসায়ন রাসায়নিক বন্ধন আয়নিক সমযোজী",
+    "duration": "25:19",
+    "durationSec": 1519.3,
+    "resolution": "720p HD",
+    "stream": "streams/chem-05.m3u8",
+    "poster": "posters/chem-05.jpg",
+    "highlights": [
+      "যোজনী, যোজ্যতা ইলেকট্রন, নিষ্ক্রিয় গ্যাস ও অষ্টক-দ্বিত্ব নিয়ম",
+      "আয়নিক, সমযোজী ও ধাতব বন্ধন গঠনের অ্যানিমেটেড ইলেকট্রন বিন্যাস",
+      "যৌগের গলনাঙ্ক, স্ফুটনাঙ্ক ও বিদ্যুৎ পরিবাহিতার তুলনামূলক বিশ্লেষণ"
+    ]
+  },
+  {
+    "id": "chem-06",
+    "slug": "chem-06",
+    "order": 15,
+    "subjectId": "chemistry",
+    "subjectLabel": "রসায়ন · Chemistry",
+    "code": "অধ্যায় ০৬",
+    "title": "মোলের ধারণা ও রাসায়নিক গণনা",
+    "subtitle": "মোলার আয়তন, মোলারিটি, শতকরা সংযুক্তি ও স্থূল সংকেত",
+    "authorOrFocus": "মোলার আয়তন, মোলারিটি, শতকরা সংযুক্তি ও স্থূল সংকেত",
+    "pageOrScope": "",
+    "examTracks": [
+      "annual9",
+      "ssc"
+    ],
+    "keywords": "chemistry ch6 mole concept counting মোলের ধারণা রাসায়নিক গণনা মোলারিটি",
+    "duration": "33:15",
+    "durationSec": 1994.7,
+    "resolution": "720p HD",
+    "stream": "streams/chem-06.m3u8",
+    "poster": "posters/chem-06.jpg",
+    "highlights": [
+      "মোল, অ্যাভোগাড্রো সংখ্যা ও মোলার আয়তনের গাণিতিক ভিজ্যুয়ালাইজেশন",
+      "মোলারিটি, শতকরা সংযুক্তি, স্থূল সংকেত ও আণবিক সংকেত নির্ণয়",
+      "লিমিটিং বিক্রিয়ক ও উৎপাদের শতকরা পরিমাণ নির্ণয়ের শর্টকাট ও সৃজনশীল সমাধান"
+    ]
+  },
+  {
+    "id": "chem-07",
+    "slug": "chem-07",
+    "order": 16,
+    "subjectId": "chemistry",
+    "subjectLabel": "রসায়ন · Chemistry",
+    "code": "অধ্যায় ০৭",
+    "title": "রাসায়নিক বিক্রিয়া",
+    "subtitle": "রেডক্স-ননরেডক্স, জারণ সংখ্যা ও লা-শাতেলিয়ার নীতি",
+    "authorOrFocus": "রেডক্স-ননরেডক্স, জারণ সংখ্যা ও লা-শাতেলিয়ার নীতি",
+    "pageOrScope": "",
+    "examTracks": [
+      "annual9",
+      "ssc"
+    ],
+    "keywords": "chemistry ch7 chemical reactions redox লা শাতেলিয়ার রাসায়নিক বিক্রিয়া জারণ বিজারণ",
+    "duration": "32:03",
+    "durationSec": 1922.6,
+    "resolution": "720p HD",
+    "stream": "streams/chem-07.m3u8",
+    "poster": "posters/chem-07.jpg",
+    "highlights": [
+      "একমুখী-উভমুখী বিক্রিয়া, রেডক্স ও নন-রেডক্স বিক্রিয়ার পূর্ণাঙ্গ শ্রেণিবিভাগ",
+      "জারণ সংখ্যা নির্ণয় এবং জারণ-বিজারণ যুগপৎ ঘটার ভিজ্যুয়াল প্রমাণ",
+      "লা-শাতেলিয়ার নীতি (তাপ, চাপ ও ঘনমাত্রার প্রভাব) এবং বাস্তব প্রয়োগ"
+    ]
+  },
+  {
+    "id": "chem-08",
+    "slug": "chem-08",
+    "order": 17,
+    "subjectId": "chemistry",
+    "subjectLabel": "রসায়ন · Chemistry",
+    "code": "অধ্যায় ০৮",
+    "title": "রসায়ন ও শক্তি",
+    "subtitle": "ডেনিয়েল কোষ, তড়িৎ বিশ্লেষণ, লবণ সেতু ও নিউক্লিয়ার বিক্রিয়া",
+    "authorOrFocus": "ডেনিয়েল কোষ, তড়িৎ বিশ্লেষণ, লবণ সেতু ও নিউক্লিয়ার বিক্রিয়া",
+    "pageOrScope": "",
+    "examTracks": [
+      "annual9",
+      "ssc"
+    ],
+    "keywords": "chemistry ch8 energy electrolysis galvanic cell রসায়ন ও শক্তি ডেনিয়েল কোষ তড়িৎ বিশ্লেষণ",
+    "duration": "43:57",
+    "durationSec": 2637.2,
+    "resolution": "720p HD",
+    "stream": "streams/chem-08.m3u8",
+    "poster": "posters/chem-08.jpg",
+    "highlights": [
+      "রাসায়নিক শক্তি ও তাপোৎপাদী-তাপহারী বিক্রিয়ার বন্ধনশক্তি গণনা",
+      "গ্যালভানিক কোষ (ডেনিয়েল কোষ), লবণ সেতু ও তড়িৎ বিশ্লেষণ প্রক্রিয়া",
+      "তড়িৎ প্রলেপন (Electroplating) ও নিউক্লিয়ার ফিশন-ফিউশন বিক্রিয়া"
+    ]
+  },
+  {
+    "id": "bgs-02",
+    "slug": "bgs-02",
+    "order": 18,
+    "subjectId": "bgs",
+    "subjectLabel": "বাংলাদেশ ও বিশ্বপরিচয়",
+    "code": "অধ্যায় ০২",
+    "title": "স্বাধীন বাংলাদেশ",
+    "subtitle": "মুক্তিযুদ্ধ, মুজিবনগর সরকার ও স্বাধীনতার তাৎপর্য",
+    "authorOrFocus": "মুক্তিযুদ্ধ, মুজিবনগর সরকার ও স্বাধীনতার তাৎপর্য",
+    "pageOrScope": "",
+    "examTracks": [
+      "annual9",
+      "ssc"
+    ],
+    "keywords": "bgs ch2 independent bangladesh swadhin স্বাধীন বাংলাদেশ মুক্তিযুদ্ধ",
+    "duration": "18:07",
+    "durationSec": 1086.8,
+    "resolution": "720p HD",
+    "stream": "streams/bgs-02.m3u8",
+    "poster": "posters/bgs-02.jpg",
+    "highlights": [
+      "১৯৭১ সালের মহান মুক্তিযুদ্ধ, ঐতিহাসিক ৭ই মার্চ ও স্বাধীনতার ঘোষণা",
+      "মুজিবনগর সরকার গঠন, মুক্তিযুদ্ধের সেক্টরসমূহ ও আন্তর্জাতিক প্রতিক্রিয়া",
+      "স্বাধীন বাংলাদেশের অভ্যুদয় ও যুদ্ধবিধ্বস্ত দেশ পুনর্গঠনের ধাপসমূহ"
+    ]
+  },
+  {
+    "id": "bgs-04",
+    "slug": "bgs-04",
+    "order": 19,
+    "subjectId": "bgs",
+    "subjectLabel": "বাংলাদেশ ও বিশ্বপরিচয়",
+    "code": "অধ্যায় ০৪",
+    "title": "বাংলাদেশের ভূপ্রকৃতি ও জলবায়ু",
+    "subtitle": "ভূপ্রাকৃতিক অঞ্চল, জলবায়ু ও প্রাকৃতিক দুর্যোগ",
+    "authorOrFocus": "ভূপ্রাকৃতিক অঞ্চল, জলবায়ু ও প্রাকৃতিক দুর্যোগ",
+    "pageOrScope": "",
+    "examTracks": [
+      "annual9",
+      "ssc"
+    ],
+    "keywords": "bgs ch4 topography climate ভূপ্রকৃতি ও জলবায়ু ভূমিকম্প",
+    "duration": "18:51",
+    "durationSec": 1130.7,
+    "resolution": "720p HD",
+    "stream": "streams/bgs-04.m3u8",
+    "poster": "posters/bgs-04.jpg",
+    "highlights": [
+      "টারশিয়ারি যুগের পাহাড়, প্লাইস্টোসিন সোপান ও প্লাবন সমভূমির মানচিত্র",
+      "বাংলাদেশের মৌসুমি জলবায়ু, ঋতুচক্র ও কালবৈশাখী-ঘূর্ণিঝড়ের কারণ",
+      "ভূমিকম্প ঝুঁকি, নদীভাঙন ও প্রাকৃতিক দুর্যোগ ব্যবস্থাপনার কৌশল"
+    ]
+  },
+  {
+    "id": "bgs-05",
+    "slug": "bgs-05",
+    "order": 20,
+    "subjectId": "bgs",
+    "subjectLabel": "বাংলাদেশ ও বিশ্বপরিচয়",
+    "code": "অধ্যায় ০৫",
+    "title": "বাংলাদেশের নদ-নদী ও প্রাকৃতিক সম্পদ",
+    "subtitle": "নদ-নদীর গতিপথ, পানিসম্পদ, বনজ ও খনিজ সম্পদ",
+    "authorOrFocus": "নদ-নদীর গতিপথ, পানিসম্পদ, বনজ ও খনিজ সম্পদ",
+    "pageOrScope": "",
+    "examTracks": [
+      "annual9",
+      "ssc"
+    ],
+    "keywords": "bgs ch5 rivers natural resources নদ নদী প্রাকৃতিক সম্পদ",
+    "duration": "18:54",
+    "durationSec": 1133.9,
+    "resolution": "720p HD",
+    "stream": "streams/bgs-05.m3u8",
+    "poster": "posters/bgs-05.jpg",
+    "highlights": [
+      "পদ্মা, ব্রহ্মপুত্র-যমুনা ও মেঘনা নদীপ্রণালির উৎস ও গতিপথ মানচিত্র",
+      "পানিসম্পদ ব্যবস্থাপনা, জলবিদ্যুৎ ও নদী সংরক্ষণের গুরুত্ব",
+      "বাংলাদেশের বনভূমির শ্রেণিবিভাগ, কৃষি ও খনিজ সম্পদের অর্থনৈতিক ভূমিকা"
+    ]
+  },
+  {
+    "id": "bgs-07",
+    "slug": "bgs-07",
+    "order": 21,
+    "subjectId": "bgs",
+    "subjectLabel": "বাংলাদেশ ও বিশ্বপরিচয়",
+    "code": "অধ্যায় ০৭",
+    "title": "বাংলাদেশ সরকারের বিভিন্ন অঙ্গ ও প্রশাসন ব্যবস্থা",
+    "subtitle": "আইন, শাসন ও বিচার বিভাগ এবং স্থানীয় প্রশাসন",
+    "authorOrFocus": "আইন, শাসন ও বিচার বিভাগ এবং স্থানীয় প্রশাসন",
+    "pageOrScope": "",
+    "examTracks": [
+      "annual9",
+      "ssc"
+    ],
+    "keywords": "bgs ch7 state organs administration বাংলাদেশ সরকারের অঙ্গ প্রশাসন",
+    "duration": "21:40",
+    "durationSec": 1299.6,
+    "resolution": "720p HD",
+    "stream": "streams/bgs-07.m3u8",
+    "poster": "posters/bgs-07.jpg",
+    "highlights": [
+      "বাংলাদেশ সরকারের তিনটি অঙ্গ: আইন বিভাগ, শাসন বিভাগ ও বিচার বিভাগ",
+      "রাষ্ট্রপতি, প্রধানমন্ত্রী ও জাতীয় সংসদের ক্ষমতা ও কার্যাবলি",
+      "কেন্দ্রীয় ও স্থানীয় প্রশাসন (জেলা, উপজেলা, ইউনিয়ন ও সিটি কর্পোরেশন)"
+    ]
+  },
+  {
+    "id": "bgs-11",
+    "slug": "bgs-11",
+    "order": 22,
+    "subjectId": "bgs",
+    "subjectLabel": "বাংলাদেশ ও বিশ্বপরিচয়",
+    "code": "অধ্যায় ১১",
+    "title": "অর্থনৈতিক নির্দেশকসমূহ ও বাংলাদেশের অর্থনীতির প্রকৃতি",
+    "subtitle": "জিডিপি, জিএনপি, মাথাপিছু আয় ও অর্থনৈতিক খাত",
+    "authorOrFocus": "জিডিপি, জিএনপি, মাথাপিছু আয় ও অর্থনৈতিক খাত",
+    "pageOrScope": "",
+    "examTracks": [
+      "annual9",
+      "ssc"
+    ],
+    "keywords": "bgs ch11 economic indicators gdp gnp অর্থনৈতিক নির্দেশক অর্থনীতি",
+    "duration": "23:08",
+    "durationSec": 1387.9,
+    "resolution": "720p HD",
+    "stream": "streams/bgs-11.m3u8",
+    "poster": "posters/bgs-11.jpg",
+    "highlights": [
+      "মোট দেশজ উৎপাদন (GDP), মোট জাতীয় উৎপাদন (GNP) ও মাথাপিছু আয় গণনা",
+      "বাংলাদেশের অর্থনীতির খাতসমূহ (কৃষি, শিল্প ও সেবা) ও অবদান বিশ্লেষণ",
+      "অর্থনৈতিক উন্নয়নের অন্তরায় ও টেকসই উন্নয়নের পদক্ষেপসমূহ"
+    ]
+  },
+  {
+    "id": "bgs-14",
+    "slug": "bgs-14",
+    "order": 23,
+    "subjectId": "bgs",
+    "subjectLabel": "বাংলাদেশ ও বিশ্বপরিচয়",
+    "code": "অধ্যায় ১৪",
+    "title": "বাংলাদেশের সামাজিক পরিবর্তন",
+    "subtitle": "সামাজিক পরিবর্তনের উপাদান, শিল্পায়ন ও নগরায়ণ",
+    "authorOrFocus": "সামাজিক পরিবর্তনের উপাদান, শিল্পায়ন ও নগরায়ণ",
+    "pageOrScope": "",
+    "examTracks": [
+      "class10",
+      "ssc"
+    ],
+    "keywords": "bgs ch14 social change সামাজিক পরিবর্তন",
+    "duration": "19:30",
+    "durationSec": 1170.1,
+    "resolution": "720p HD",
+    "stream": "streams/bgs-14.m3u8",
+    "poster": "posters/bgs-14.jpg",
+    "highlights": [
+      "সামাজিক পরিবর্তনের ধারণা এবং প্রাকৃতিক, জৈবিক ও প্রযুক্তিগত উপাদান",
+      "শিল্পায়ন ও নগরায়ণের ফলে গ্রামীণ ও শহুরে সমাজকাঠামোর রূপান্তর",
+      "নারীর ক্ষমতায়ন, শিক্ষার প্রসার ও ইতিবাচক সামাজিক পরিবর্তন"
+    ]
+  },
+  {
+    "id": "skill-01",
+    "slug": "skill-01",
+    "order": 24,
+    "subjectId": "skill",
+    "subjectLabel": "পরীক্ষা কৌশল · Masterclass",
+    "code": "বিশেষ ক্লাস ০১",
+    "title": "বোর্ড পরীক্ষা প্রস্তুতি ও কৌশল মাস্টারক্লাস",
+    "subtitle": "সৃজনশীল ও বহুনির্বাচনি প্রশ্নে পূর্ণ নম্বর পাওয়ার কৌশল",
+    "authorOrFocus": "সৃজনশীল ও বহুনির্বাচনি প্রশ্নে পূর্ণ নম্বর পাওয়ার কৌশল",
+    "pageOrScope": "",
+    "examTracks": [
+      "annual9",
+      "class10",
+      "ssc"
+    ],
+    "keywords": "skill masterclass exam strategy বোর্ড পরীক্ষা কৌশল সৃজনশীল",
+    "duration": "20:26",
+    "durationSec": 1226.1,
+    "resolution": "720p HD",
+    "stream": "streams/skill-01.m3u8",
+    "poster": "posters/skill-01.jpg",
+    "highlights": [
+      "সৃজনশীল প্রশ্নের ৪টি স্তরে (ক, খ, গ, ঘ) সময় বণ্টন ও পূর্ণ নম্বর পাওয়ার কাঠামো",
+      "বহুনির্বাচনি (MCQ) প্রশ্নে কনফিউশন এড়ানো ও দ্রুত এলিমিনেশন কৌশল",
+      "পরীক্ষার খাতার নান্দনিক উপস্থাপনা ও শেষ মুহূর্তের রিভিশন রুটিন"
+    ]
+  }
+]
