@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://myabdur2121-cpu.github.io/poroza/sitemap.xml
