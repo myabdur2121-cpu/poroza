@@ -1,8 +1,202 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
   <url>
     <loc>https://myabdur2121-cpu.github.io/poroza/</loc>
+    <lastmod>2026-10-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+    <video:video>
+      <video:thumbnail_loc>https://myabdur2121-cpu.github.io/poroza/posters/bn-poetry-06.jpg</video:thumbnail_loc>
+      <video:title>জীবন বিনিময় — বাংলা ১ম পত্র · কবিতা | Poroza</video:title>
+      <video:description>Poroza অনলাইন ভিজ্যুয়াল ক্লাস: জীবন বিনিময় (গোলাম মোস্তফা · পৃ. ১৯৩–১৯৬)।</video:description>
+      <video:content_loc>https://myabdur2121-cpu.github.io/poroza/streams/bn-poetry-06.m3u8</video:content_loc>
+      <video:duration>1600</video:duration>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://myabdur2121-cpu.github.io/poroza/posters/bn-poetry-07.jpg</video:thumbnail_loc>
+      <video:title>উমর ফারুক — বাংলা ১ম পত্র · কবিতা | Poroza</video:title>
+      <video:description>Poroza অনলাইন ভিজ্যুয়াল ক্লাস: উমর ফারুক (কাজী নজরুল ইসলাম · পৃ. ২০০–২০৫)।</video:description>
+      <video:content_loc>https://myabdur2121-cpu.github.io/poroza/streams/bn-poetry-07.m3u8</video:content_loc>
+      <video:duration>1651</video:duration>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://myabdur2121-cpu.github.io/poroza/posters/bn-poetry-08.jpg</video:thumbnail_loc>
+      <video:title>সেইদিন এই মাঠ — বাংলা ১ম পত্র · কবিতা | Poroza</video:title>
+      <video:description>Poroza অনলাইন ভিজ্যুয়াল ক্লাস: সেইদিন এই মাঠ (জীবনানন্দ দাশ · পৃ. ২০৬–২০৮)।</video:description>
+      <video:content_loc>https://myabdur2121-cpu.github.io/poroza/streams/bn-poetry-08.m3u8</video:content_loc>
+      <video:duration>1618</video:duration>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://myabdur2121-cpu.github.io/poroza/posters/bn-poetry-09.jpg</video:thumbnail_loc>
+      <video:title>যাব আমি তোমার দেশে — বাংলা ১ম পত্র · কবিতা | Poroza</video:title>
+      <video:description>Poroza অনলাইন ভিজ্যুয়াল ক্লাস: যাব আমি তোমার দেশে (জসীমউদ্‌দীন · পৃ. ২০৯–২১৩)।</video:description>
+      <video:content_loc>https://myabdur2121-cpu.github.io/poroza/streams/bn-poetry-09.m3u8</video:content_loc>
+      <video:duration>1596</video:duration>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://myabdur2121-cpu.github.io/poroza/posters/bn-poetry-10.jpg</video:thumbnail_loc>
+      <video:title>আমার দেশ — বাংলা ১ম পত্র · কবিতা | Poroza</video:title>
+      <video:description>Poroza অনলাইন ভিজ্যুয়াল ক্লাস: আমার দেশ (সুফিয়া কামাল · পৃ. ২১৭–২২০)।</video:description>
+      <video:content_loc>https://myabdur2121-cpu.github.io/poroza/streams/bn-poetry-10.m3u8</video:content_loc>
+      <video:duration>1610</video:duration>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://myabdur2121-cpu.github.io/poroza/posters/bn-poetry-11.jpg</video:thumbnail_loc>
+      <video:title>বৃষ্টি — বাংলা ১ম পত্র · কবিতা | Poroza</video:title>
+      <video:description>Poroza অনলাইন ভিজ্যুয়াল ক্লাস: বৃষ্টি (ফররুখ আহমদ · পৃ. ২২৪–২২৬)।</video:description>
+      <video:content_loc>https://myabdur2121-cpu.github.io/poroza/streams/bn-poetry-11.m3u8</video:content_loc>
+      <video:duration>1606</video:duration>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://myabdur2121-cpu.github.io/poroza/posters/bn-poetry-12.jpg</video:thumbnail_loc>
+      <video:title>আমি কোনো আগন্তুক নই — বাংলা ১ম পত্র · কবিতা | Poroza</video:title>
+      <video:description>Poroza অনলাইন ভিজ্যুয়াল ক্লাস: আমি কোনো আগন্তুক নই (আহসান হাবীব · পৃ. ২২৭–২৩০)।</video:description>
+      <video:content_loc>https://myabdur2121-cpu.github.io/poroza/streams/bn-poetry-12.m3u8</video:content_loc>
+      <video:duration>1622</video:duration>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://myabdur2121-cpu.github.io/poroza/posters/bn-prose-06.jpg</video:thumbnail_loc>
+      <video:title>নিরীহ বাঙালি — বাংলা ১ম পত্র · গদ্য | Poroza</video:title>
+      <video:description>Poroza অনলাইন ভিজ্যুয়াল ক্লাস: নিরীহ বাঙালি (রোকেয়া সাখাওয়াত হোসেন · পৃ. ৩৭–৪১)।</video:description>
+      <video:content_loc>https://myabdur2121-cpu.github.io/poroza/streams/bn-prose-06.m3u8</video:content_loc>
+      <video:duration>1315</video:duration>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://myabdur2121-cpu.github.io/poroza/posters/bn-prose-07.jpg</video:thumbnail_loc>
+      <video:title>পল্লিসাহিত্য — বাংলা ১ম পত্র · গদ্য | Poroza</video:title>
+      <video:description>Poroza অনলাইন ভিজ্যুয়াল ক্লাস: পল্লিসাহিত্য (মুহম্মদ শহীদুল্লাহ্ · পৃ. ৪২–৪৮)।</video:description>
+      <video:content_loc>https://myabdur2121-cpu.github.io/poroza/streams/bn-prose-07.m3u8</video:content_loc>
+      <video:duration>1304</video:duration>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://myabdur2121-cpu.github.io/poroza/posters/bn-prose-08.jpg</video:thumbnail_loc>
+      <video:title>আম-আঁটির ভেঁপু — বাংলা ১ম পত্র · গদ্য | Poroza</video:title>
+      <video:description>Poroza অনলাইন ভিজ্যুয়াল ক্লাস: আম-আঁটির ভেঁপু (বিভূতিভূষণ বন্দ্যোপাধ্যায় · পৃ. ৫৯–৬৫)।</video:description>
+      <video:content_loc>https://myabdur2121-cpu.github.io/poroza/streams/bn-prose-08.m3u8</video:content_loc>
+      <video:duration>1242</video:duration>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://myabdur2121-cpu.github.io/poroza/posters/bn-prose-09.jpg</video:thumbnail_loc>
+      <video:title>মানুষ মুহম্মদ (স.) — বাংলা ১ম পত্র · গদ্য | Poroza</video:title>
+      <video:description>Poroza অনলাইন ভিজ্যুয়াল ক্লাস: মানুষ মুহম্মদ (স.) (মোহাম্মদ ওয়াজেদ আলী · পৃ. ৬৬–৭২)।</video:description>
+      <video:content_loc>https://myabdur2121-cpu.github.io/poroza/streams/bn-prose-09.m3u8</video:content_loc>
+      <video:duration>1267</video:duration>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://myabdur2121-cpu.github.io/poroza/posters/bn-prose-10.jpg</video:thumbnail_loc>
+      <video:title>নিমগাছ — বাংলা ১ম পত্র · গদ্য | Poroza</video:title>
+      <video:description>Poroza অনলাইন ভিজ্যুয়াল ক্লাস: নিমগাছ (বনফুল (বলাইচাঁদ মুখোপাধ্যায়) · পৃ. ৭৩–৭৫)।</video:description>
+      <video:content_loc>https://myabdur2121-cpu.github.io/poroza/streams/bn-prose-10.m3u8</video:content_loc>
+      <video:duration>1230</video:duration>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://myabdur2121-cpu.github.io/poroza/posters/bn-prose-11.jpg</video:thumbnail_loc>
+      <video:title>উপেক্ষিত শক্তির উদ্বোধন — বাংলা ১ম পত্র · গদ্য | Poroza</video:title>
+      <video:description>Poroza অনলাইন ভিজ্যুয়াল ক্লাস: উপেক্ষিত শক্তির উদ্বোধন (কাজী নজরুল ইসলাম · পৃ. ৭৬–৭৯)।</video:description>
+      <video:content_loc>https://myabdur2121-cpu.github.io/poroza/streams/bn-prose-11.m3u8</video:content_loc>
+      <video:duration>1207</video:duration>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://myabdur2121-cpu.github.io/poroza/posters/chem-05.jpg</video:thumbnail_loc>
+      <video:title>রাসায়নিক বন্ধন — রসায়ন · Chemistry | Poroza</video:title>
+      <video:description>Poroza অনলাইন ভিজ্যুয়াল ক্লাস: রাসায়নিক বন্ধন (আয়নিক, সমযোজী ও ধাতব বন্ধন · যোজনী ও অষ্টক নিয়ম)।</video:description>
+      <video:content_loc>https://myabdur2121-cpu.github.io/poroza/streams/chem-05.m3u8</video:content_loc>
+      <video:duration>1519</video:duration>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://myabdur2121-cpu.github.io/poroza/posters/chem-06.jpg</video:thumbnail_loc>
+      <video:title>মোলের ধারণা ও রাসায়নিক গণনা — রসায়ন · Chemistry | Poroza</video:title>
+      <video:description>Poroza অনলাইন ভিজ্যুয়াল ক্লাস: মোলের ধারণা ও রাসায়নিক গণনা (মোলার আয়তন, মোলারিটি, শতকরা সংযুক্তি ও স্থূল সংকেত)।</video:description>
+      <video:content_loc>https://myabdur2121-cpu.github.io/poroza/streams/chem-06.m3u8</video:content_loc>
+      <video:duration>1995</video:duration>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://myabdur2121-cpu.github.io/poroza/posters/chem-07.jpg</video:thumbnail_loc>
+      <video:title>রাসায়নিক বিক্রিয়া — রসায়ন · Chemistry | Poroza</video:title>
+      <video:description>Poroza অনলাইন ভিজ্যুয়াল ক্লাস: রাসায়নিক বিক্রিয়া (রেডক্স-ননরেডক্স, জারণ সংখ্যা ও লা-শাতেলিয়ার নীতি)।</video:description>
+      <video:content_loc>https://myabdur2121-cpu.github.io/poroza/streams/chem-07.m3u8</video:content_loc>
+      <video:duration>1923</video:duration>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://myabdur2121-cpu.github.io/poroza/posters/chem-08.jpg</video:thumbnail_loc>
+      <video:title>রসায়ন ও শক্তি — রসায়ন · Chemistry | Poroza</video:title>
+      <video:description>Poroza অনলাইন ভিজ্যুয়াল ক্লাস: রসায়ন ও শক্তি (ডেনিয়েল কোষ, তড়িৎ বিশ্লেষণ, লবণ সেতু ও নিউক্লিয়ার বিক্রিয়া)।</video:description>
+      <video:content_loc>https://myabdur2121-cpu.github.io/poroza/streams/chem-08.m3u8</video:content_loc>
+      <video:duration>2637</video:duration>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://myabdur2121-cpu.github.io/poroza/posters/bgs-02.jpg</video:thumbnail_loc>
+      <video:title>স্বাধীন বাংলাদেশ — বাংলাদেশ ও বিশ্বপরিচয় | Poroza</video:title>
+      <video:description>Poroza অনলাইন ভিজ্যুয়াল ক্লাস: স্বাধীন বাংলাদেশ (মুক্তিযুদ্ধ, মুজিবনগর সরকার ও স্বাধীনতার তাৎপর্য)।</video:description>
+      <video:content_loc>https://myabdur2121-cpu.github.io/poroza/streams/bgs-02.m3u8</video:content_loc>
+      <video:duration>1087</video:duration>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://myabdur2121-cpu.github.io/poroza/posters/bgs-04.jpg</video:thumbnail_loc>
+      <video:title>বাংলাদেশের ভূপ্রকৃতি ও জলবায়ু — বাংলাদেশ ও বিশ্বপরিচয় | Poroza</video:title>
+      <video:description>Poroza অনলাইন ভিজ্যুয়াল ক্লাস: বাংলাদেশের ভূপ্রকৃতি ও জলবায়ু (ভূপ্রাকৃতিক অঞ্চল, জলবায়ু ও প্রাকৃতিক দুর্যোগ)।</video:description>
+      <video:content_loc>https://myabdur2121-cpu.github.io/poroza/streams/bgs-04.m3u8</video:content_loc>
+      <video:duration>1131</video:duration>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://myabdur2121-cpu.github.io/poroza/posters/bgs-05.jpg</video:thumbnail_loc>
+      <video:title>বাংলাদেশের নদ-নদী ও প্রাকৃতিক সম্পদ — বাংলাদেশ ও বিশ্বপরিচয় | Poroza</video:title>
+      <video:description>Poroza অনলাইন ভিজ্যুয়াল ক্লাস: বাংলাদেশের নদ-নদী ও প্রাকৃতিক সম্পদ (নদ-নদীর গতিপথ, পানিসম্পদ, বনজ ও খনিজ সম্পদ)।</video:description>
+      <video:content_loc>https://myabdur2121-cpu.github.io/poroza/streams/bgs-05.m3u8</video:content_loc>
+      <video:duration>1134</video:duration>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://myabdur2121-cpu.github.io/poroza/posters/bgs-07.jpg</video:thumbnail_loc>
+      <video:title>বাংলাদেশ সরকারের বিভিন্ন অঙ্গ ও প্রশাসন ব্যবস্থা — বাংলাদেশ ও বিশ্বপরিচয় | Poroza</video:title>
+      <video:description>Poroza অনলাইন ভিজ্যুয়াল ক্লাস: বাংলাদেশ সরকারের বিভিন্ন অঙ্গ ও প্রশাসন ব্যবস্থা (আইন, শাসন ও বিচার বিভাগ এবং স্থানীয় প্রশাসন)।</video:description>
+      <video:content_loc>https://myabdur2121-cpu.github.io/poroza/streams/bgs-07.m3u8</video:content_loc>
+      <video:duration>1300</video:duration>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://myabdur2121-cpu.github.io/poroza/posters/bgs-11.jpg</video:thumbnail_loc>
+      <video:title>অর্থনৈতিক নির্দেশকসমূহ ও বাংলাদেশের অর্থনীতির প্রকৃতি — বাংলাদেশ ও বিশ্বপরিচয় | Poroza</video:title>
+      <video:description>Poroza অনলাইন ভিজ্যুয়াল ক্লাস: অর্থনৈতিক নির্দেশকসমূহ ও বাংলাদেশের অর্থনীতির প্রকৃতি (জিডিপি, জিএনপি, মাথাপিছু আয় ও অর্থনৈতিক খাত)।</video:description>
+      <video:content_loc>https://myabdur2121-cpu.github.io/poroza/streams/bgs-11.m3u8</video:content_loc>
+      <video:duration>1388</video:duration>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://myabdur2121-cpu.github.io/poroza/posters/bgs-14.jpg</video:thumbnail_loc>
+      <video:title>বাংলাদেশের সামাজিক পরিবর্তন — বাংলাদেশ ও বিশ্বপরিচয় | Poroza</video:title>
+      <video:description>Poroza অনলাইন ভিজ্যুয়াল ক্লাস: বাংলাদেশের সামাজিক পরিবর্তন (সামাজিক পরিবর্তনের উপাদান, শিল্পায়ন ও নগরায়ণ)।</video:description>
+      <video:content_loc>https://myabdur2121-cpu.github.io/poroza/streams/bgs-14.m3u8</video:content_loc>
+      <video:duration>1170</video:duration>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://myabdur2121-cpu.github.io/poroza/posters/skill-01.jpg</video:thumbnail_loc>
+      <video:title>বোর্ড পরীক্ষা প্রস্তুতি ও কৌশল মাস্টারক্লাস — পরীক্ষা কৌশল · Masterclass | Poroza</video:title>
+      <video:description>Poroza অনলাইন ভিজ্যুয়াল ক্লাস: বোর্ড পরীক্ষা প্রস্তুতি ও কৌশল মাস্টারক্লাস (সৃজনশীল ও বহুনির্বাচনি প্রশ্নে পূর্ণ নম্বর পাওয়ার কৌশল)।</video:description>
+      <video:content_loc>https://myabdur2121-cpu.github.io/poroza/streams/skill-01.m3u8</video:content_loc>
+      <video:duration>1226</video:duration>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
   </url>
 </urlset>
