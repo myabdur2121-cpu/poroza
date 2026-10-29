@@ -11,6 +11,7 @@
     lessons: [],
     activeSub: 'all',
     activeLesson: null,
+    tvFs: false,
     dark: document.documentElement.getAttribute('data-theme') === 'dark',
     hlsInstance: null
   };
@@ -75,8 +76,10 @@
       '.ptv-thumb img{position:absolute;top:0;left:0;width:100%;height:100%;object-fit:cover;}' +
       '.ptv-dur{position:absolute;right:8px;bottom:8px;background:rgba(0,0,0,0.85);color:#fff;font-size:11px;padding:2px 6px;border-radius:4px;}' +
       '.ptv-body{padding:12px 14px;}' +
-      '.ptv-player-box{position:relative;width:100%;padding-top:56.25%;background:#000;border-radius:10px;overflow:hidden;margin-bottom:16px;}' +
-      '.ptv-player-box video{position:absolute;top:0;left:0;width:100%;height:100%;background:#000;}';
+      '.ptv-player-box{position:relative;width:100%;padding-top:56.25%;background:#000;border-radius:10px;overflow:hidden;margin-bottom:16px;outline:none !important;}' +
+      '.ptv-player-box.ptv-fs{position:fixed !important;top:0 !important;left:0 !important;right:0 !important;bottom:0 !important;width:100vw !important;height:100vh !important;padding-top:0 !important;margin:0 !important;border-radius:0 !important;z-index:99999 !important;}' +
+      '.ptv-player-box video{position:absolute;top:0;left:0;width:100%;height:100%;background:#000;outline:none !important;}' +
+      '.ptv-fs-btn{position:absolute;top:12px;right:12px;z-index:10;background:rgba(12,12,15,0.85);color:#fff;border:1px solid rgba(255,255,255,0.3);padding:7px 13px;border-radius:7px;font-size:13px;font-weight:700;cursor:pointer;}';
     document.head.appendChild(st);
   }
 
@@ -154,9 +157,10 @@
 
     if (state.activeLesson) {
       var les = state.activeLesson;
-      html += '<div class="ptv-player-box">';
+      html += '<div class="ptv-player-box" id="ptv-pbox">';
+      html += '<button class="ptv-fs-btn" id="ptv-fs-toggle">⛶ পুরো পর্দা</button>';
       html +=
-        '<video id="ptv-video" controls playsinline preload="metadata" controlsList="nodownload" poster="./' +
+        '<video id="ptv-video" controls playsinline preload="metadata" controlsList="nodownload nofullscreen" poster="./' +
         esc(les.poster) +
         '"></video>';
       html += '</div>';
@@ -282,6 +286,15 @@
 
     if (state.activeLesson) {
       var vid = document.getElementById('ptv-video');
+      var pbox = document.getElementById('ptv-pbox');
+      var fsBtn = document.getElementById('ptv-fs-toggle');
+      if (fsBtn && pbox) {
+        fsBtn.onclick = function () {
+          state.tvFs = !state.tvFs;
+          pbox.className = state.tvFs ? 'ptv-player-box ptv-fs' : 'ptv-player-box';
+          fsBtn.innerHTML = state.tvFs ? '✕ ছোট পর্দা' : '⛶ পুরো পর্দা';
+        };
+      }
       if (vid) {
         attachStream(vid, './' + state.activeLesson.stream);
       }
