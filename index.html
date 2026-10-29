@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="bn" data-theme="light">
 <head>
-  <script type="module" crossorigin src="./assets/polyfills-BbzE2aDO.js"></script>
+  <script type="module" src="./assets/polyfills-BbzE2aDO.js"></script>
 
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
@@ -27,10 +27,20 @@
 
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,600;0,700;1,600&family=Hind+Siliguri:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&family=Noto+Serif+Bengali:wght@500;600;700&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <link
+    rel="stylesheet"
+    href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,600;0,700;1,600&family=Hind+Siliguri:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&family=Noto+Serif+Bengali:wght@500;600;700&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap"
+    media="print"
+    onload="this.media='all'"
+  />
 
   <script>
+    // Pre-Boot Global Safety Shims (runs BEFORE vendor/module chunks on Android 9 TV & old WebViews)
     (function () {
+      try {
+        if (typeof window.globalThis === 'undefined') window.globalThis = window;
+      } catch (e) {}
+
       try {
         var saved = localStorage.getItem('poroza_theme');
         if (saved === 'dark' || saved === 'light') {
@@ -39,6 +49,27 @@
           document.documentElement.setAttribute('data-theme', 'dark');
         }
       } catch (e) {}
+
+      if (typeof window.AbortController === 'undefined') {
+        window.AbortController = function () {
+          this.signal = { aborted: false, addEventListener: function () {}, removeEventListener: function () {} };
+        };
+        window.AbortController.prototype.abort = function () {
+          this.signal.aborted = true;
+        };
+      }
+      if (typeof window.ResizeObserver === 'undefined') {
+        window.ResizeObserver = function () {};
+        window.ResizeObserver.prototype.observe = function () {};
+        window.ResizeObserver.prototype.unobserve = function () {};
+        window.ResizeObserver.prototype.disconnect = function () {};
+      }
+      if (typeof window.IntersectionObserver === 'undefined') {
+        window.IntersectionObserver = function () {};
+        window.IntersectionObserver.prototype.observe = function () {};
+        window.IntersectionObserver.prototype.unobserve = function () {};
+        window.IntersectionObserver.prototype.disconnect = function () {};
+      }
     })();
   </script>
 
@@ -66,16 +97,73 @@
     ]
   }
   </script>
-  <script type="module" crossorigin src="./assets/index-BTS6dCHl.js"></script>
-  <link rel="modulepreload" crossorigin href="./assets/vendor-Hfz35r8I.js">
-  <link rel="stylesheet" crossorigin href="./assets/index-BDX30Mh4.css">
+  <script type="module" src="./assets/index-DZMf76Z3.js"></script>
+  <link rel="modulepreload" href="./assets/vendor-Hfz35r8I.js">
+  <link rel="stylesheet" href="./assets/index-BDX30Mh4.css">
   <script type="module">import.meta.url;import("_").catch(()=>1);(async function*(){})().next();if(location.protocol!="file:"){window.__vite_is_modern_browser=true}</script>
   <script type="module">!function(){if(window.__vite_is_modern_browser)return;console.warn("vite: loading legacy chunks, syntax error above and the same error below should be ignored");var e=document.getElementById("vite-legacy-polyfill"),n=document.createElement("script");n.src=e.src,n.onload=function(){System.import(document.getElementById('vite-legacy-entry').getAttribute('data-src'))},document.body.appendChild(n)}();</script>
 </head>
 <body>
-  <div id="root"></div>
+  <div id="root">
+    <!-- Instant Monochrome Pre-Boot Shell (Replaced in <50ms on phones; prevents blank screen on slow TVs) -->
+    <div style="min-height:100vh;display:flex;flex-direction:column;align-items:center;justify-content:center;padding:24px;text-align:center;font-family:sans-serif;background:#FFFFFF;color:#0A0A0B;">
+      <div style="font-size:22px;font-weight:700;letter-spacing:-0.02em;margin-bottom:8px;">Poroza</div>
+      <div style="font-size:14px;color:#52525B;">ভিজ্যুয়াল অনলাইন ক্লাসরুম প্রস্তুত হচ্ছে...</div>
+      <noscript>
+        <div style="margin-top:18px;padding:12px 16px;border:1px solid #0A0A0B;border-radius:8px;max-width:440px;font-size:13.5px;">
+          আপনার টিভি ব্রাউজারে JavaScript বন্ধ আছে। উপরের ডান কোণার মেনু (⋮) থেকে Settings → Enable JavaScript চালু করুন।
+        </div>
+      </noscript>
+    </div>
+  </div>
+
+
+  <!-- Self-Healing Smart-TV Watchdog (Zero effect on modern phones where React mounts in ~50ms) -->
+  <script>
+    (function () {
+      function bootTvFallback() {
+        if (window.__POROZA_BOOTED__ || window.__POROZA_TV_ACTIVE__) return;
+        var s = document.createElement('script');
+        s.src = './tv-fallback.js?v=24';
+        document.body.appendChild(s);
+      }
+
+      // Stage 2 (2.2s): If AOSP Android TV WebView skipped nomodule AND failed type="module", force-boot Legacy React
+      window.setTimeout(function () {
+        if (window.__POROZA_MOUNTED__ || window.__POROZA_BOOTED__) return;
+        var poly = document.getElementById('vite-legacy-polyfill');
+        var entry = document.getElementById('vite-legacy-entry');
+        if (poly && entry && !window.__POROZA_LEGACY_RETRIED__) {
+          window.__POROZA_LEGACY_RETRIED__ = true;
+          var p = document.createElement('script');
+          p.src = poly.getAttribute('src');
+          p.onload = function () {
+            try {
+              if (window.System && entry.getAttribute('data-src')) {
+                var pr = window.System.import(entry.getAttribute('data-src'));
+                if (pr && pr.catch) pr.catch(bootTvFallback);
+              } else {
+                bootTvFallback();
+              }
+            } catch (e) {
+              bootTvFallback();
+            }
+          };
+          p.onerror = bootTvFallback;
+          document.body.appendChild(p);
+        }
+      }, 2200);
+
+      // Stage 3 (6.5s): Ultimate guarantee — if classroom UI still hasn't rendered on an exotic TV, boot Pure ES5 TV Classroom
+      window.setTimeout(function () {
+        if (!window.__POROZA_BOOTED__) {
+          bootTvFallback();
+        }
+      }, 6500);
+    })();
+  </script>
   <script nomodule>!function(){var e=document,t=e.createElement("script");if(!("noModule"in t)&&"onbeforeload"in t){var n=!1;e.addEventListener("beforeload",(function(e){if(e.target===t)n=!0;else if(!e.target.hasAttribute("nomodule")||!n)return;e.preventDefault()}),!0),t.type="module",t.src=".",e.head.appendChild(t),t.remove()}}();</script>
-  <script nomodule crossorigin id="vite-legacy-polyfill" src="./assets/polyfills-legacy-D56EhZcS.js"></script>
-  <script nomodule crossorigin id="vite-legacy-entry" data-src="./assets/index-legacy-nlWm1aTK.js">System.import(document.getElementById('vite-legacy-entry').getAttribute('data-src'))</script>
+  <script nomodule id="vite-legacy-polyfill" src="./assets/polyfills-legacy-D56EhZcS.js"></script>
+  <script nomodule id="vite-legacy-entry" data-src="./assets/index-legacy-DAexMHOw.js">System.import(document.getElementById('vite-legacy-entry').getAttribute('data-src'))</script>
 </body>
 </html>
