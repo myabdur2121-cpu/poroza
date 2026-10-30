@@ -459,9 +459,117 @@
     ]
   },
   {
+    "id": "bio-05",
+    "slug": "bio-05",
+    "order": 18,
+    "subjectId": "biology",
+    "subjectLabel": "জীববিজ্ঞান · Biology",
+    "code": "অধ্যায় ০৫",
+    "title": "খাদ্য, পুষ্টি এবং পরিপাক",
+    "subtitle": "উদ্ভিদের পুষ্টি, BMI-BMR গণনা ও মানব পরিপাকতন্ত্র · পৃ. ৮৪–১২৪",
+    "authorOrFocus": "উদ্ভিদের পুষ্টি, BMI-BMR ও পরিপাকতন্ত্র",
+    "pageOrScope": "পৃ. ৮৪–১২৪",
+    "examTracks": [
+      "annual9",
+      "ssc"
+    ],
+    "keywords": "biology ch05 food nutrition digestion bmi bmr খাদ্য পুষ্টি পরিপাক জীববিজ্ঞান",
+    "duration": "32:30",
+    "durationSec": 1950.1,
+    "resolution": "720p HD",
+    "stream": "streams/bio-05.m3u8",
+    "poster": "posters/bio-05.jpg",
+    "highlights": [
+      "উদ্ভিদের ১৬টি অত্যাবশ্যকীয় খনিজ পুষ্টি উপাদান ও অভাবজনিত লক্ষণ (ক্লোরোসিস, ডাইব্যাক)",
+      "আদর্শ খাদ্য পিরামিড, কিলোক্যালরি-কিলোজুল হিসাব এবং BMR ও BMI গাণিতিক সমস্যা",
+      "দাঁতের লম্বচ্ছেদ, পৌষ্টিকনালি, যকৃৎ-অগ্ন্যাশয়ের এনজাইম বিক্রিয়া ও ৭টি আন্ত্রিক রোগ"
+    ]
+  },
+  {
+    "id": "bio-07",
+    "slug": "bio-07",
+    "order": 19,
+    "subjectId": "biology",
+    "subjectLabel": "জীববিজ্ঞান · Biology",
+    "code": "অধ্যায় ০৭",
+    "title": "গ্যাসীয় বিনিময়",
+    "subtitle": "উদ্ভিদ ও মানব শ্বসনতন্ত্র, অ্যালভিওলাস ও শ্বসন রোগ · পৃ. ১৬০–১৭৭",
+    "authorOrFocus": "মানব শ্বসনতন্ত্র, অ্যালভিওলাস ও শ্বসন রোগ",
+    "pageOrScope": "পৃ. ১৬০–১৭৭",
+    "examTracks": [
+      "annual9",
+      "ssc"
+    ],
+    "keywords": "biology ch07 exchange of gases lungs alveoli গ্যাসীয় বিনিময় ফুসফুস শ্বসনতন্ত্র",
+    "duration": "14:58",
+    "durationSec": 898.2,
+    "resolution": "720p HD",
+    "stream": "streams/bio-07.m3u8",
+    "poster": "posters/bio-07.jpg",
+    "highlights": [
+      "স্টোমাটা ও লেন্টিসেলে দিন-রাতের গ্যাস বিনিময় এবং মানব শ্বসনতন্ত্রের ৭টি অঙ্গ",
+      "প্রশ্বাস-নিঃশ্বাসে মধ্যচ্ছদার কৌশল, অক্সিহিমোগ্লোবিন পরিবহন ও চুনের পানির পরীক্ষা",
+      "অ্যাজমা, ব্রংকাইটিস, নিউমোনিয়া, যক্ষ্মা (MT Test, BCG) ও ফুসফুস ক্যান্সার বিশ্লেষণ"
+    ]
+  },
+  {
+    "id": "bio-12",
+    "slug": "bio-12",
+    "order": 20,
+    "subjectId": "biology",
+    "subjectLabel": "জীববিজ্ঞান · Biology",
+    "code": "অধ্যায় ১২",
+    "title": "জীবের বংশগতি ও জৈব অভিব্যক্তি",
+    "subtitle": "DNA ডাবল হেলিক্স, লিঙ্গ নির্ধারণ, থ্যালাসেমিয়া ও বিবর্তন · পৃ. ২৫৪–২৮১",
+    "authorOrFocus": "DNA, লিঙ্গ নির্ধারণ, থ্যালাসেমিয়া ও ডারউইনবাদ",
+    "pageOrScope": "পৃ. ২৫৪–২৮১",
+    "examTracks": [
+      "annual9",
+      "ssc"
+    ],
+    "keywords": "biology ch12 heredity evolution dna mendel thalassemia বংশগতি জৈব অভিব্যক্তি ডিএনএ",
+    "duration": "22:25",
+    "durationSec": 1345.0,
+    "resolution": "720p HD",
+    "stream": "streams/bio-12.m3u8",
+    "poster": "posters/bio-12.jpg",
+    "highlights": [
+      "ক্রোমোজোম, ৩৪ Å DNA ডাবল হেলিক্স, মেন্ডেলের ৩:১ পরীক্ষা, অনুলিপন ও DNA টেস্ট",
+      "পিতার XY লিঙ্গ নির্ধারণ, সেক্স-লিংকড বর্ণান্ধতা ও অটোসোমাল থ্যালাসেমিয়ার পানেট ছক",
+      "ডারউইনের প্রাকৃতিক নির্বাচন, অ-ডারউইনীয় অভিব্যক্তি, জীবিত জীবাশ্ম ও ইঞ্জিনিয়ার্ড মশা"
+    ]
+  },
+  {
+    "id": "bio-13",
+    "slug": "bio-13",
+    "order": 21,
+    "subjectId": "biology",
+    "subjectLabel": "জীববিজ্ঞান · Biology",
+    "code": "অধ্যায় ১৩",
+    "title": "জীবের পরিবেশ",
+    "subtitle": "বাস্তুতন্ত্র, খাদ্যজাল, ১০% শক্তি পিরামিড ও সিমবায়োসিস · পৃ. ২৮২–৩০৪",
+    "authorOrFocus": "বাস্তুতন্ত্র, শক্তি পিরামিড ও সিমবায়োসিস",
+    "pageOrScope": "পৃ. ২৮২–৩০৪",
+    "examTracks": [
+      "annual9",
+      "ssc"
+    ],
+    "keywords": "biology ch13 environment ecosystem food web symbiosis জীবের পরিবেশ বাস্তুতন্ত্র খাদ্যজাল",
+    "duration": "18:05",
+    "durationSec": 1084.9,
+    "resolution": "720p HD",
+    "stream": "streams/bio-13.m3u8",
+    "poster": "posters/bio-13.jpg",
+    "highlights": [
+      "জড়-ভৌত-জীবজ উপাদান, পুকুরের বাস্তুতন্ত্র এবং শিকারজীবী-পরজীবী-মৃতজীবী খাদ্যশিকল",
+      "পুকুরের ৫-শিকলের খাদ্যজাল, চক্রাকার পুষ্টিপ্রবাহ, ১০% শক্তির নিয়ম ও শক্তি পিরামিড",
+      "ওডামের মিউচুয়ালিজম, কমেনসালিজম, শোষণ ও অ্যান্টিবায়োসিস এবং গ্রিনহাউস এফেক্ট"
+    ]
+  },
+  {
     "id": "bgs-02",
     "slug": "bgs-02",
-    "order": 18,
+    "order": 22,
     "subjectId": "bgs",
     "subjectLabel": "বাংলাদেশ ও বিশ্বপরিচয়",
     "code": "অধ্যায় ০২",
@@ -488,7 +596,7 @@
   {
     "id": "bgs-04",
     "slug": "bgs-04",
-    "order": 19,
+    "order": 23,
     "subjectId": "bgs",
     "subjectLabel": "বাংলাদেশ ও বিশ্বপরিচয়",
     "code": "অধ্যায় ০৪",
@@ -515,7 +623,7 @@
   {
     "id": "bgs-05",
     "slug": "bgs-05",
-    "order": 20,
+    "order": 24,
     "subjectId": "bgs",
     "subjectLabel": "বাংলাদেশ ও বিশ্বপরিচয়",
     "code": "অধ্যায় ০৫",
@@ -542,7 +650,7 @@
   {
     "id": "bgs-07",
     "slug": "bgs-07",
-    "order": 21,
+    "order": 25,
     "subjectId": "bgs",
     "subjectLabel": "বাংলাদেশ ও বিশ্বপরিচয়",
     "code": "অধ্যায় ০৭",
@@ -569,7 +677,7 @@
   {
     "id": "bgs-11",
     "slug": "bgs-11",
-    "order": 22,
+    "order": 26,
     "subjectId": "bgs",
     "subjectLabel": "বাংলাদেশ ও বিশ্বপরিচয়",
     "code": "অধ্যায় ১১",
@@ -596,7 +704,7 @@
   {
     "id": "bgs-14",
     "slug": "bgs-14",
-    "order": 23,
+    "order": 27,
     "subjectId": "bgs",
     "subjectLabel": "বাংলাদেশ ও বিশ্বপরিচয়",
     "code": "অধ্যায় ১৪",
@@ -623,7 +731,7 @@
   {
     "id": "skill-01",
     "slug": "skill-01",
-    "order": 24,
+    "order": 28,
     "subjectId": "skill",
     "subjectLabel": "পরীক্ষা কৌশল · Masterclass",
     "code": "বিশেষ ক্লাস ০১",

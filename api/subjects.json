@@ -42,8 +42,22 @@
     "indexCode": "03"
   },
   {
-    "id": "bgs",
+    "id": "biology",
     "order": 4,
+    "title": "জীববিজ্ঞান · Biology",
+    "shortTitle": "জীববিজ্ঞান",
+    "enTitle": "Class 9–10 Biology",
+    "accent": "var(--ink-primary)",
+    "badge": "720p HD",
+    "bookRef": "জীববিজ্ঞান (নবম-দশম শ্রেণি, ২০২৬) · অধ্যায় ৫, ৭, ১২ ও ১৩",
+    "description": "খাদ্য-পুষ্টি ও পরিপাকতন্ত্র, শ্বসন ও গ্যাসীয় বিনিময়, ডিএনএ-বংশগতি ও জৈব অভিব্যক্তি এবং বাস্তুতন্ত্রের ভেক্টর ডায়াগ্রামভিত্তিক ক্লাস।",
+    "lessonCount": 4,
+    "totalDurationSec": 5278.2,
+    "indexCode": "04"
+  },
+  {
+    "id": "bgs",
+    "order": 5,
     "title": "বাংলাদেশ ও বিশ্বপরিচয়",
     "shortTitle": "বাওবি",
     "enTitle": "Bangladesh & Global Studies",
@@ -53,11 +67,11 @@
     "description": "মুক্তিযুদ্ধ, ভূপ্রকৃতি, নদ-নদী, রাষ্ট্রীয় প্রশাসন, জাতীয় অর্থনীতি ও সামাজিক পরিবর্তনের মানচিত্রভিত্তিক বিশ্লেষণ।",
     "lessonCount": 6,
     "totalDurationSec": 7209.0,
-    "indexCode": "04"
+    "indexCode": "05"
   },
   {
     "id": "skill",
-    "order": 5,
+    "order": 6,
     "title": "পরীক্ষা কৌশল · Masterclass",
     "shortTitle": "পরীক্ষা কৌশল",
     "enTitle": "Board Exam Strategy",
@@ -67,6 +81,6 @@
     "description": "বোর্ড ও বার্ষিক পরীক্ষায় সৃজনশীল এবং বহুনির্বাচনি অংশে সময় ব্যবস্থাপনা ও সর্বোচ্চ নম্বর নিশ্চিত করার কৌশল।",
     "lessonCount": 1,
     "totalDurationSec": 1226.1,
-    "indexCode": "05"
+    "indexCode": "06"
   }
 ]

@@ -9,9 +9,9 @@
     "cloudAuthLogin": false
   },
   "stats": {
-    "totalLessons": 24,
-    "totalDurationSec": 35377.9,
-    "totalSubjects": 5,
+    "totalLessons": 28,
+    "totalDurationSec": 40656.1,
+    "totalSubjects": 6,
     "streamFormat": "HLS (.m3u8 + .pza chunks)"
   }
 }

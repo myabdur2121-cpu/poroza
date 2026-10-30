@@ -198,5 +198,37 @@
       <video:duration>1226</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://myabdur2121-cpu.github.io/poroza/posters/bio-05.jpg</video:thumbnail_loc>
+      <video:title>খাদ্য, পুষ্টি এবং পরিপাক — জীববিজ্ঞান · Biology | Poroza</video:title>
+      <video:description>Poroza অনলাইন ভিজ্যুয়াল ক্লাস: খাদ্য, পুষ্টি এবং পরিপাক (উদ্ভিদের পুষ্টি, BMI-BMR গণনা ও মানব পরিপাকতন্ত্র · পৃ. ৮৪–১২৪)।</video:description>
+      <video:content_loc>https://myabdur2121-cpu.github.io/poroza/streams/bio-05.m3u8</video:content_loc>
+      <video:duration>1950</video:duration>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://myabdur2121-cpu.github.io/poroza/posters/bio-07.jpg</video:thumbnail_loc>
+      <video:title>গ্যাসীয় বিনিময় — জীববিজ্ঞান · Biology | Poroza</video:title>
+      <video:description>Poroza অনলাইন ভিজ্যুয়াল ক্লাস: গ্যাসীয় বিনিময় (উদ্ভিদ ও মানব শ্বসনতন্ত্র, অ্যালভিওলাস ও শ্বসন রোগ · পৃ. ১৬০–১৭৭)।</video:description>
+      <video:content_loc>https://myabdur2121-cpu.github.io/poroza/streams/bio-07.m3u8</video:content_loc>
+      <video:duration>898</video:duration>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://myabdur2121-cpu.github.io/poroza/posters/bio-12.jpg</video:thumbnail_loc>
+      <video:title>জীবের বংশগতি ও জৈব অভিব্যক্তি — জীববিজ্ঞান · Biology | Poroza</video:title>
+      <video:description>Poroza অনলাইন ভিজ্যুয়াল ক্লাস: জীবের বংশগতি ও জৈব অভিব্যক্তি (DNA ডাবল হেলিক্স, লিঙ্গ নির্ধারণ, থ্যালাসেমিয়া ও বিবর্তন · পৃ. ২৫৪–২৮১)।</video:description>
+      <video:content_loc>https://myabdur2121-cpu.github.io/poroza/streams/bio-12.m3u8</video:content_loc>
+      <video:duration>1345</video:duration>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://myabdur2121-cpu.github.io/poroza/posters/bio-13.jpg</video:thumbnail_loc>
+      <video:title>জীবের পরিবেশ — জীববিজ্ঞান · Biology | Poroza</video:title>
+      <video:description>Poroza অনলাইন ভিজ্যুয়াল ক্লাস: জীবের পরিবেশ (বাস্তুতন্ত্র, খাদ্যজাল, ১০% শক্তি পিরামিড ও সিমবায়োসিস · পৃ. ২৮২–৩০৪)।</video:description>
+      <video:content_loc>https://myabdur2121-cpu.github.io/poroza/streams/bio-13.m3u8</video:content_loc>
+      <video:duration>1085</video:duration>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
   </url>
 </urlset>
